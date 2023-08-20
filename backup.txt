@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {
+            "level": "Error",
+            "code": "INVALID-CONTENT-TYPE",
+            "details": "Invalid request content-type:application/x-www-form-urlencoded for req:http://192.168.188.136/api/monitoring/device"
+        }
+    ]
+}
